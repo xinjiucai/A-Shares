@@ -7,6 +7,7 @@
 
 
 > **免五**：免五的意思就是免除5元最低收费，假设佣金费率时万一，那么交易1万元的股票，佣金费就是一元。
+
 > 更多关于股票交易成本计算可以查看:[交易成本计算](https://github.com/AStock1688/no-five-broker-guide/blob/main/commission-composition.md)
 
 ---
